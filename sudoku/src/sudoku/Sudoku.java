@@ -5,6 +5,8 @@
  */
 package sudoku;
 
+import javax.swing.JFrame;
+
 /**
  *
  * @author Clément
@@ -16,6 +18,9 @@ public class Sudoku {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+       Fenetre fen = new Fenetre();
+        
     }
     
 }
